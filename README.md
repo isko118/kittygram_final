@@ -70,7 +70,7 @@
 5. Запустите Docker Compose в режиме демона:
 
     ```
-    sudo docker-compose -f /home/YOUR_USERNAME/kittygram/docker-compose.production.yml up -d
+    sudo docker-compose -f /home/USERNAME/kittygram/docker-compose.production.yml up -d
     ```
 
 6. Выполните миграции, соберите статические файлы бэкенда и скопируйте их в `/backend_static/static/`:
