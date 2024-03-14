@@ -142,6 +142,11 @@
 [![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-FF1709?style=flat&logo=django&logoColor=white)](https://www.django-rest-framework.org/
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
+### CI/CD
+
+[![Workflow Status](https://img.shields.io/github/workflow/status/isko118/kittygram_final/CI?label=Workflow&logo=github&style=flat-square)](https://github.com/isko118/kittygram/actions)
+
+
 ### Автор
 [Iskander Nasyrov](https://github.com/isko118) [![GitHub](https://img.shields.io/badge/-Iskander_Nasyrov-181717?style=flat&logo=github&logoColor=white)](https://github.com/isko118)
 
