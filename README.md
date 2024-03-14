@@ -144,7 +144,7 @@
 
 ### CI/CD
 
-![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=main)
+[![CI/CD](https://github.com/isko118/kittygram_final/actions/runs/8284108713/badge.svg)](https://github.com/isko118/kittygram_final/actions/runs/8284108713)
 
 ### Автор
 [Iskander Nasyrov](https://github.com/isko118) [![GitHub](https://img.shields.io/badge/-Iskander_Nasyrov-181717?style=flat&logo=github&logoColor=white)](https://github.com/isko118)
