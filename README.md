@@ -144,8 +144,7 @@
 
 ### CI/CD
 
-[![Workflow Status](https://img.shields.io/github/workflow/status/isko118/kittygram_final/CI?label=Workflow&logo=github&style=flat-square)](https://github.com/isko118/kittygram/actions)
-
+[![CI/CD](https://github.com/isko118/kittygram_final/actions/runs/8284108713/badge.svg)](https://github.com/isko118/kittygram_final/actions/runs/8284108713)
 
 ### Автор
 [Iskander Nasyrov](https://github.com/isko118) [![GitHub](https://img.shields.io/badge/-Iskander_Nasyrov-181717?style=flat&logo=github&logoColor=white)](https://github.com/isko118)
